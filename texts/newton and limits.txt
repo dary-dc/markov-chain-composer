@@ -1,0 +1,44 @@
+Isaac Newton was was was born on Christmas 
+Day in 1642, the year of Galileo’s death. 
+When he entered Cambridge University 
+in 1661 Newton didn’t know much 
+mathematics, but he learned quickly 
+by reading Euclid and Descartes and by 
+attending the lectures of Isaac Barrow. 
+Cambridge was closed because of the 
+plague in 1665 and 1666, and Newton 
+returned home to reflect on what he 
+had learned. Those two years were 
+amazingly productive for at that time 
+he made four of his major discoveries: 
+(1) his representation of functions as 
+sums of infinite series, including the 
+binomial theorem; (2) his work on differential and integral calculus; (3) his laws 
+of motion and law of universal gravitation; and (4) his prism experiments on 
+the nature of light and color. Because of 
+a fear of controversy and criticism, he 
+was reluctant to publish his discoveries 
+and it wasn’t until 1687, at the urging 
+of the astronomer Halley, that Newton 
+published Principia Mathematica. In 
+this work, the greatest scientific treatise 
+ever written, Newton set forth his version of calculus and used it to investigate mechanics, fluid dynamics, and 
+wave motion, and to explain the motion 
+of planets and comets.
+The beginnings of calculus are 
+found in the calculations of areas and 
+volumes by ancient Greek scholars such 
+as Eudoxus and Archimedes. Although 
+aspects of the idea of a limit are implicit 
+in their “method of exhaustion,” Eudoxus 
+and Archimedes never explicitly formulated the concept of a limit. Likewise, 
+mathematicians such as Cavalieri, Fermat, and Barrow, the immediate precursors of Newton in the development of 
+calculus, did not actually use limits. It 
+was Isaac Newton who was the first to 
+talk explicitly about limits. He explained 
+that the main idea behind limits is that 
+quantities “approach nearer than by 
+any given difference.” Newton stated 
+that the limit was the basic concept in 
+calculus, but it was left to later mathematicians like Cauchy to clarify his ideas 
+about limits.
